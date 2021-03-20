@@ -1,13 +1,12 @@
-> 강의 버전에서 packages 업데이트함 
-> current node v14.16.0
-> yarn upgrade --latest
-> remove babel-jest
-> Using firebase for login, cloud firestore authorization will be expired.
+강의 버전에서 packages 업데이트함<br/>
+current node v14.16.0<br/>
+yarn upgrade --latest<br/>
+remove babel-jest<br/>
+Using firebase for login, cloud firestore authorization will be expired.
 
 <br/>
 
 ## study 125 - 132
----
 
 ### 125: find()
 만족하는 첫 번째 요소의 값을 반환 없으면 undefined
