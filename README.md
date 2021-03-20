@@ -2,7 +2,8 @@
 current node v14.16.0<br/>
 yarn upgrade --latest<br/>
 remove babel-jest<br/>
-Using firebase for login, cloud firestore authorization will be expired.
+
+Using firebase for login, you have to change about the configuration in `firebase.utils.js`.
 
 <br/>
 
